@@ -20,7 +20,8 @@ All experiments are designed to be reproducible using the provided notebooks and
 
 **Author:** Conrado Banjo B Mamaradlo, Jr.  
 **Institution:** Asian Institute of Management (AIM)
-**Advisor:** Professor Emeritus Carmen Tagliente
+
+**Advisor: Prof Emeritus Carmen Tagliente
 
 This project is submitted in partial fulfillment of the requirements for the  
 **Postgraduate Diploma in Artificial Intelligence and Machine Learning**.
