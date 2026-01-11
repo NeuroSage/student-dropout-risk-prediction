@@ -19,7 +19,7 @@ All experiments are designed to be reproducible using the provided notebooks and
 ## License & Credits
 
 **Author:** Conrado Banjo B Mamaradlo, Jr.  
-**Institution:** School of Executive Education and Lifelong Learning, Asian Institute of Management
+**Institution:** Asian Institute of Management (AIM)
 **Advisor:** Professor Emeritus Carmen Tagliente
 
 This project is submitted in partial fulfillment of the requirements for the  
