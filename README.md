@@ -13,3 +13,20 @@ The project focuses on predicting student dropout risk using supervised machine 
 
 ## Reproducibility
 All experiments are designed to be reproducible using the provided notebooks and documented dependencies.
+
+---
+
+## License & Credits
+
+**Author:** Conrado Banjo B Mamaradlo, Jr.  
+**Institution:** School of Executive Education and Lifelong Learning, Asian Institute of Management (AIM)
+**Advisor:** Professor Emeritus Carmen Tagliente
+
+This project is submitted in partial fulfillment of the requirements for the  
+**Postgraduate Diploma in Artificial Intelligence and Machine Learning**.
+
+### Tools and Acknowledgements
+
+- The dataset used in this project was obtained from the UCI Machine Learning Repository.
+- Google Colab was used as the execution environment for developing and running the Jupyter notebook.
+- ChatGPT Plus was used as a supportive tool for drafting, structuring, and refining narrative components of the project. All analysis, modeling decisions, interpretations, and conclusions remain the responsibility of the author.
